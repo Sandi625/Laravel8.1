@@ -911,7 +911,7 @@
 <!-- overlayScrollbars -->
 <script src="{{asset('template/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js')}}"></script>
 <!-- AdminLTE App -->
-<script src="{{('dist/js/adminlte.js')}}"></script>
+<script src="{{('template/dist/js/adminlte.js')}}"></script>
 
 <!-- PAGE PLUGINS -->
 <!-- jQuery Mapael -->
